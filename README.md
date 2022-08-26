@@ -4,7 +4,7 @@ original repo - [github.com/disepi/ambrosial](https://github.com/disepi/ambrosia
 
 this patch fixes this issue - [github.com/disepi/ambrosial/issues/83](https://github.com/disepi/ambrosial/issues/83)
 
-download patched executable - [https://github.com/gmankab/ambrosial-fix/releases/download/08.26.2022_fix/Ambrosial.exe](https://github.com/gmankab/ambrosial-fix/releases/download/08.26.2022_fix/Ambrosial.exe)
+download patched executable - [github.com/gmankab/ambrosial-fix/releases/download/08.26.2022_fix/Ambrosial.exe](https://github.com/gmankab/ambrosial-fix/releases/download/08.26.2022_fix/Ambrosial.exe)
 
 before fix:
 ![image](https://user-images.githubusercontent.com/73340745/186926413-14d16102-37d9-42a5-abfc-b959895f2823.png)
