@@ -152,8 +152,7 @@ namespace Ambrosial
 
                         // panel banner
                         PictureBox banner = new PictureBox();
-                        banner.BackgroundImage = Image.FromFile(c.bannerphotoPath);
-                        banner.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+                        banner.BackColor = Color.FromArgb(255,128,0);
                         banner.Location = new Point(0, 1);
                         banner.Size = new Size(624, 191);
                         banner.TabIndex = 4;
